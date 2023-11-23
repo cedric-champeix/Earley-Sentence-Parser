@@ -1,0 +1,8 @@
+dt nn nns vbp vbz jj s np vp ap
+s np vp
+np dt nn
+np dt nns
+vp vbp np
+vp vbz np
+np dt np
+np jj nn
