@@ -1,3 +1,5 @@
+package my_nodes;
+
 public abstract class AbstractNode {
    private String head;
 

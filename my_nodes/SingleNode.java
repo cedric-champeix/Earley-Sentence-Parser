@@ -1,3 +1,5 @@
+package my_nodes;
+
 public class SingleNode extends AbstractNode {
 
    public String word;

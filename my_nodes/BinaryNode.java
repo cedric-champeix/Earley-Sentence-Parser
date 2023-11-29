@@ -1,3 +1,5 @@
+package my_nodes;
+
 public class BinaryNode extends AbstractNode {
 
    private AbstractNode node1;
